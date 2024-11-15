@@ -32,7 +32,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![2024-11-15 11-32-48](https://github.com/user-attachments/assets/2bc406c5-c44d-4645-bfae-607d0e028da3)
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with freeconvert.com
